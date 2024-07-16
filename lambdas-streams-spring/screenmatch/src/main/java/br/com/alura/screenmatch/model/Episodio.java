@@ -1,7 +1,5 @@
 package br.com.alura.screenmatch.model;
 
-import org.springframework.cglib.core.Local;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 
